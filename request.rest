@@ -1,0 +1,5 @@
+get http://localhost:3003/songs
+
+###
+
+GET http://localhost:3003/bands

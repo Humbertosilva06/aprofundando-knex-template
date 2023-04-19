@@ -1,4 +1,4 @@
--- Active: 1681473326768@@127.0.0.1@3306
+-- Active: 1681918509451@@127.0.0.1@3306
 -- Tabelas já foram criadas
 CREATE TABLE bands (
     id TEXT PRIMARY KEY UNIQUE NOT NULL,
