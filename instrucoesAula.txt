@@ -1,0 +1,14 @@
+PRATICA 1 - REFATORANDO BANDS 
+
+Refatore para query builder os endpoints de get bands e post songs 
+
+
+PRATICA 2 - REFATORANDO BANDS 
+
+agora refatore o endpoint PUT/BANDS/:ID
+
+PRATICA 3 REFATORANDO /BANDS
+
+implemente o endpoint  DELETE/BAND/:ID com query builder
+
+FIXAÇÃO REFATORE OS 3 EDNPONTS DE SONGS
